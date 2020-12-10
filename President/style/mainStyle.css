@@ -1,0 +1,17 @@
+h1, h2, h3 {
+    text-align: center;
+    color: rgb(2, 0, 0);
+    font-weight: bold
+}
+img {
+    width: "300";
+    height: "400";
+}
+
+#top {
+   color: green
+
+}
+body {
+    background-color: lightslategray;
+}
